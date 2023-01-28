@@ -3,6 +3,14 @@
 # AIM:
 
 To design a website to perform mathematical calculations in server side.
+## Step 1:
+Create a website using html.
+
+## Step 2:
+Create a code for frontend of calculation using HTML and CSS.
+
+## Step 3:
+Then run the code.
 
 
 # PROGRAM:
